@@ -1,0 +1,10 @@
+h1. iat_vim
+
+iat_vim is a Bash/AppleScript that opens a Vim-tab in Terminal.app with an "It's All Text":https://addons.mozilla.org/en-US/firefox/addon/4125 buffer.
+
+h2. Setup
+
+# Save "iat_vim" to your drive
+# @chmod +x "iat_vim"@
+# Edit IAT's preferences with the path to "iat_vim"
+
